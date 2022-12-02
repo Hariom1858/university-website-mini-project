@@ -102,7 +102,7 @@
  }
  .container .column img{
     width: 100%;
-    height: auto;
+    height: 100%;
  }
  .container .column a:last-child{
     position: absolute;
